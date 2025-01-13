@@ -13,4 +13,4 @@ https://colab.research.google.com/github/NeilVaughan/3DEvo/blob/main/Tutorial_Fr
 
 4. Jax raycasting ipynb demo: https://colab.research.google.com/github/NeilVaughan/3DEvo/blob/main/jax_raycast.ipynb
    
-5. JavaScript Lenia which can work in the web browser: https://neilvaughan.github.io/3DEvoJSLenia.htm
+5. JavaScript Lenia which can work in the web browser: https://neilvaughan.github.io/3DEvo/JSLenia.htm
