@@ -1,14 +1,12 @@
 # 3DEvo
 
-Repository of other bio inspired demos.
+Repository of other various bio inspired demos. Open links velow to run code on Colab or JS:
 
-Open to run code on Colab:
-
-Simulation of 3D physics running ant quadruped locomotion based on EvoJax:
+1. Simulation of 3D physics running ant quadruped locomotion based on EvoJax:
 https://colab.research.google.com/github/NeilVaughan/3DEvo/blob/main/3DAntRun.ipynb
 
-Lenia html javascript WebGL Demo:
+2. Lenia html javascript WebGL Demo:
 https://neilvaughan.github.io/3DEvo/LeniaWebGLDemo.html
 
-GOL and Lenia using python:
+3. GOL and Lenia using python:
 https://colab.research.google.com/github/NeilVaughan/3DEvo/blob/main/Tutorial_From_Conway_to_Lenia_(w_o_results).ipynb
