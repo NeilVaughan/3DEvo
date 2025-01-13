@@ -10,3 +10,6 @@ https://neilvaughan.github.io/3DEvo/LeniaWebGLDemo.html
 
 3. GOL and Lenia using python:
 https://colab.research.google.com/github/NeilVaughan/3DEvo/blob/main/Tutorial_From_Conway_to_Lenia_(w_o_results).ipynb
+
+4. Jax raycasting ipynb demo
+5. https://colab.research.google.com/github/NeilVaughan/3DEvo/blob/main/jax_raycast.ipynb
